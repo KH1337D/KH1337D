@@ -3,7 +3,9 @@
 <!--
 **KH1337D/KH1337D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Glad to see you here!
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
