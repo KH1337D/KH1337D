@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Hi , I'm Khaledd Muhhammedd </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm KHaledd muhhammedd </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Glad+To+see+you..&hearts;Computer+Science+Student,Self-taught+cyber-security,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Glad+To+see+you..&hearts;++;Self-cyber+security-;Computer+Science+Student,;CTF+Newbie,;Active+Learner,Researcher,;Love+to+learn+new+stuffs.."></a>
 </p>
 
 
@@ -19,13 +19,14 @@
 
 - A passionate Self-taught cyber security.
 - Playing CTF's at spare time.
-- Currently learning Web Development.
-- Hacking is just mindset more than skillset.
+- Currently learning Web Development. 
+- hacking is just mindset more than skillset.
 - I’m currently open for an Intern or a new job opportunity,
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
