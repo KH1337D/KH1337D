@@ -19,7 +19,7 @@
 
 - A passionate Self-taught cyber security.
 - Playing CTF's at spare time.
-- Currently learning Web Development. 
+- Currently learning web pentest. 
 - hacking is just mindset more than skillset.
 - I’m currently open for an Intern or a new job opportunity,
 
